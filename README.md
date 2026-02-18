@@ -83,6 +83,9 @@ scikit-learn
 
 ---
 
+Link to the dataset: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+---
 ## License
 
 MIT License
